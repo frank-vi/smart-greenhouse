@@ -25,10 +25,10 @@ The project took place on two dimensions:
 - software: design, development and deployment on the devices;
 - hardware: design and development of the electronic circuit and the greenhouse.
 
-**Technologies** used: _MQTT protocol_, _Pi4J library_.
+**Technologies**: _MQTT protocol_, _Pi4J library_.
 
-**Languages** used: _Java_, _C++_, _UML2_.
+**Languages**: _Java_, _C++_, _UML2_.
 
-**Development Tools** used: _Eclipse_, _VSCode + Platformio_.
+**Development Tools**: _Eclipse_, _VSCode + Platformio_.
 
-**Hardware** used: _Arduino Uno_, _Raspberry Pi 1 B+_, sensors and actuators.
+**Hardware**: _Arduino Uno_, _Raspberry Pi 1 B+_, sensors and actuators.
