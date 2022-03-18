@@ -10,9 +10,9 @@ The smart greenhouse monitors and controls several parameters to ensure plant gr
 
 To achieve this, it was necessary to create a system that included three sub-systems:
 - a fogging system to cool the environment with the aim of ensuring the moisture needs of the plants. This system:
--- reduces the indoor temperature,
--- provides the necessary moisture for the plants, and
--- water the soil by the method of moistening the air.
+  - reduces the indoor temperature,
+  - provides the necessary moisture for the plants, and
+  - water the soil by the method of moistening the air.
 
 - an heating system to increase the indoor temperature when it's too cold for the kind of plants.
 - an irrigation system used when the temperature is too high and the fogging system isn't enough.
